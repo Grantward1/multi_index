@@ -1,6 +1,13 @@
 # Prerequisites
 *.d
 
+# Artifacts
+*.swp
+
+# Build directories
+bin/
+build/
+
 # Object files
 *.o
 *.ko
